@@ -1,0 +1,53 @@
+@media screen and (max-width: 1030px) {
+	#navigation{
+		padding-top: 25px;
+	}	
+}
+
+@media screen and (max-width: 730px) {
+	#navigation{
+		padding-top: 25px;		
+		font-size: 12pt;
+	}	
+}
+
+@media screen and (max-width: 704px) {
+	#navigation{
+		font-size: 12pt;
+	}
+
+	#profile{
+		display: block;
+	}
+
+	#profile-image{
+		width: 90%;
+	}
+
+	#text{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 20px;
+		width: 90%;
+	}
+
+	#social-media{
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 35px;
+		margin-bottom: 50px;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	.sm-item{
+		font-size: 11px;
+	}
+}
+
+@media screen and (max-width: 422px) {
+	.sm-item{
+		font-size: 10px;
+	}
+}

@@ -1,0 +1,30 @@
+@media screen and (max-width: 1030px) {
+	#navigation{
+		padding-top: 25px;		
+	}
+}
+
+@media screen and (max-width: 930px) {
+	#main-wrapper{
+		width: 65%;
+	}	
+}
+
+@media screen and (max-width: 730px) {
+	#navigation{
+		padding-top: 25px;		
+		font-size: 12pt;
+	}	
+}
+
+@media screen and (max-width: 670px) {
+	#main-wrapper{
+		width: 75%;
+	}	
+}
+
+@media screen and (max-width: 550px) {
+	#main-wrapper{
+		width: 85%;
+	}	
+}

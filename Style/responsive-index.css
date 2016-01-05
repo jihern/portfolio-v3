@@ -1,0 +1,25 @@
+@media screen and (max-width: 1030px) {
+	#navigation{
+		padding-top: 25px;		
+	}
+
+	.project-image{
+		width: 45%;
+	}
+
+}
+
+@media screen and (max-width: 730px) {
+	.project-image{
+		width: 92%;
+	}
+
+	#photo-grid{
+		padding-top: 25px;
+	}
+
+	#navigation{
+		padding-top: 25px;		
+		font-size: 12pt;
+	}	
+}
