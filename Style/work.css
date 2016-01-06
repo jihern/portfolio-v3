@@ -159,6 +159,13 @@ body{
 
 .icon{
 	width: 100%;
+	margin-bottom: 10px;
+	box-shadow: 2.5px 2.5px 3px #D8D8D8;
+}
+
+.icon2{
+	width: 100%;
+	margin-bottom: 10px;
 }
 
 .button{
