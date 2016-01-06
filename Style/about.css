@@ -1,16 +1,17 @@
 /* Fonts */
 
 @font-face {
-	font-family: 'Open Sans';
+	font-family: 'PT Sans';
 	src: url(../Fonts/PTC55F.eot);
 }
 
 @font-face {
-    font-family: "Open Sans";
+    font-family: "PT Sans";
     src: url(../Fonts/PTC75F.eot);
     font-weight: bold;
 }
 
+/* Fonts End*/
 /* Highlights */
 
 ::selection {

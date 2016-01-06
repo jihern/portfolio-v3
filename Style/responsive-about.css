@@ -40,14 +40,8 @@
 	}
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 667px) {
 	.sm-item{
-		font-size: 11px;
-	}
-}
-
-@media screen and (max-width: 422px) {
-	.sm-item{
-		font-size: 10px;
+		font-size: 8px;
 	}
 }

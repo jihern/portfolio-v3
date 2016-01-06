@@ -140,12 +140,14 @@ body{
 	font-family: "PT Sans";
 	font-weight: bold;
 	font-size: 40px;
+	text-align: left;
 }
 
 .subtitle{
 	font-family: "PT Sans";
 	font-size: 30px;
 	margin-bottom: 5px;
+	text-align: left;
 }
 
 .text{
