@@ -48,5 +48,18 @@ $(document).ready( function() {
 		$('#smartshelf img').attr('src', 'Images/smartshelf.jpg');
 	});			
 
+	$("#perspective").mouseenter(function(){
+		$('#perspective img').attr('src', 'Images/perspectiveproject-hover.jpg');
+	}).mouseleave(function(){
+		$('#perspective img').attr('src', 'Images/perspectiveproject.jpg');
+	});		
+
+
+	$("#doordash").mouseenter(function(){
+		$('#doordash img').attr('src', 'Images/doordash-hover.jpg');
+	}).mouseleave(function(){
+		$('#doordash img').attr('src', 'Images/doordash-icon.jpg');
+	});				
+
 });
 
